@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Varun Gupta!  
 
-- 💻 **Who I Am:**  
-  I am a seasoned frontend developer with expertise in building responsive and performant web applications. I specialize in **JavaScript**, **TypeScript**, and modern frontend frameworks like **React** and **Angular**.  
+  I am a seasoned Frontend developer with expertise in building responsive and performant web applications. I specialize in **JavaScript**, **TypeScript**, and modern frontend frameworks like **React** and **Angular**.  
 
 
 ## 🛠️ Skills & Expertise  
