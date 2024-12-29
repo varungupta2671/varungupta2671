@@ -40,8 +40,8 @@ Welcome to my GitHub profile! I'm an experienced **Frontend Developer** with a p
 
 ## 📈 My GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=varungupta2671&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=varungupta2671&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=varungupta2671&show_icons=true&theme=graywhite&hide_rank=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=varungupta2671&layout=donut&theme=radical)  
 
 ---
 
