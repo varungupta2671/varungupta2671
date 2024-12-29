@@ -9,17 +9,6 @@ Welcome to my GitHub profile! I'm an experienced **Frontend Developer** with a p
 - 💻 **Who I Am:**  
   I am a seasoned frontend developer with expertise in building responsive and performant web applications. I specialize in **JavaScript**, **TypeScript**, and modern frontend frameworks like **React** and **Angular**.  
 
-- 🎯 **My Goals:**  
-  I aim to build impactful solutions that combine aesthetics with functionality. I also enjoy contributing to open-source projects and mentoring budding developers in the community.  
-
-- 🌱 **Currently Learning:**  
-  I'm exploring advanced **React patterns**, **Next.js**, **Node.js**, and **state management libraries** like Redux Toolkit and Zustand to further enhance my skills.  
-
-- 🎨 **What I Love:**  
-  - Transforming designs into functional and pixel-perfect web applications.  
-  - Crafting intuitive and interactive user experiences.  
-  - Solving challenging problems with innovative frontend solutions.  
-
 ---
 
 ## 🛠️ Skills & Expertise  
@@ -40,8 +29,7 @@ Welcome to my GitHub profile! I'm an experienced **Frontend Developer** with a p
 
 ## 📈 My GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=varungupta2671&show_icons=true&theme=graywhite&hide_rank=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=varungupta2671&layout=donut&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=varungupta2671&layout=donut&theme=default)  
 
 ---
 
