@@ -1,15 +1,8 @@
 # 👋 Hi, I'm Varun Gupta!  
 
-Welcome to my GitHub profile! I'm an experienced **Frontend Developer** with a passion for creating seamless and intuitive web applications. I thrive on turning complex designs into functional, user-friendly interfaces and continually enhancing my skills with the latest web technologies.  
-
----
-
-## 🚀 About Me  
-
 - 💻 **Who I Am:**  
   I am a seasoned frontend developer with expertise in building responsive and performant web applications. I specialize in **JavaScript**, **TypeScript**, and modern frontend frameworks like **React** and **Angular**.  
 
----
 
 ## 🛠️ Skills & Expertise  
 
