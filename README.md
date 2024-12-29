@@ -30,7 +30,8 @@
 Feel free to reach out if you want to collaborate, discuss frontend development trends, or share project ideas!  
 
 - **GitHub:** [@varungupta2671](https://github.com/varungupta2671)  
-- **LinkedIn:** [https://www.linkedin.com/in/varun-gupta-66799281](https://www.linkedin.com/in/varun-gupta-66799281/)  
+- **LinkedIn:** [https://www.linkedin.com/in/varun-gupta-66799281](https://www.linkedin.com/in/varun-gupta-66799281/)
+- **Medium:** [https://medium.com/@varungupta2671](https://medium.com/@varungupta2671)
 - **Email:** varungupta.feb@gmail.com
 
 ---
