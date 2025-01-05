@@ -19,12 +19,6 @@
 
 ---
 
-## 📈 My GitHub Stats  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=varungupta2671&layout=donut&theme=default)  
-
----
-
 ## 💬 Let's Connect!  
 
 Feel free to reach out if you want to collaborate, discuss frontend development trends, or share project ideas!  
