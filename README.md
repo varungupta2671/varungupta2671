@@ -7,14 +7,14 @@
 
 ### **Frontend Development**  
 - **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3 (SASS/SCSS).  
-- **Frameworks & Libraries:** React.js, Angular, Redux, Bootstrap, Tailwind CSS.  
+- **Frameworks & Libraries:** React.js, Angular, Electron.js, Electron Builder, VS Code Extension API, D3, Evidence Dev, Bootstrap, Tailwind CSS.  
 - **State Management:** Redux, Context API, Zustand.  
 - **Web Tools & Techniques:** VS Code API, Responsive Design, Cross-Browser Compatibility, Webpack, Vite.  
 
 ### **Other Technical Skills**  
 - **Backend Basics:** Node.js, Express.js.  
 - **Version Control:** Git, GitHub, GitLab.  
-- **Testing:** Jest, React Testing Library, Cypress.  
+- **Testing:** Jest, React Testing Library, Chai, Mocha, Cypress.  
 - **Deployment & CI/CD:** Netlify, Vercel, GitHub Actions.  
 
 ---
