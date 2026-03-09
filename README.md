@@ -29,13 +29,13 @@ Building scalable web applications, enterprise products, and AI-powered develope
 <a href="https://openai.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="36" height="36" alt="AI" /></a>
 </p>
 
-### AI & Modern Engineering
+### AI & Frontend Engineering
 
-AI-assisted UI workflows • Intelligent frontend interactions • Prompt-driven product features • LLM integrations in web applications • AI-enhanced developer experiences
+Conversational UI Patterns • AI-driven User Experiences • LLM-powered Product Interfaces • Prompt-based Interaction Design • Frontend Intelligence Layers
 
 ### System Design Interests
 
-Developer Platforms • AI-Augmented Product Architecture • High-Performance Frontend Systems • Scalable Enterprise Integrations • Intelligent UI Workflows
+Frontend Architecture • Design Systems • Microfrontend Patterns • Performance-first UI Engineering • Scalable Component Platforms
 
 ### Socials
 
