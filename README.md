@@ -26,11 +26,16 @@ Building scalable web applications, enterprise products, and AI-powered develope
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="36" height="36" alt="AWS" /></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="36" height="36" alt="Docker" /></a>
 <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="36" height="36" alt="Jenkins" /></a>
+<a href="https://openai.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="36" height="36" alt="AI" /></a>
 </p>
+
+### AI & Modern Engineering
+
+AI-assisted UI workflows • Intelligent frontend interactions • Prompt-driven product features • LLM integrations in web applications • AI-enhanced developer experiences
 
 ### System Design Interests
 
-Microfrontends • Scalable UI Architecture • Performance-first Systems • API Design • AI-driven Product Workflows
+Developer Platforms • AI-Augmented Product Architecture • High-Performance Frontend Systems • Scalable Enterprise Integrations • Intelligent UI Workflows
 
 ### Socials
 
