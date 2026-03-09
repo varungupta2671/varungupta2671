@@ -1,33 +1,28 @@
-# 👋 Hi, I'm Varun Gupta!  
+# 👋 Hi, I'm Varun Gupta!
 
-  I am a seasoned Frontend developer with expertise in building responsive and performant web applications. I specialize in **JavaScript**, **TypeScript**, and modern frontend frameworks like **React** and **Angular**.  
+Senior Software Engineer with 10+ years of experience building scalable web applications, enterprise products, and developer platforms. My work focuses on **frontend architecture, performance engineering, AI-driven product integration, and full stack development** using modern web technologies.
 
+## 🛠️ Skills & Expertise
 
-## 🛠️ Skills & Expertise  
+- **Frontend:** React, Angular, JavaScript, TypeScript, HTML5, CSS3, Tailwind, Electron, VS Code Extension API
+- **Backend:** Node.js, Express.js, REST APIs, Microservices  
+- **AI & Modern Engineering:** LLM integrations, AI workflows, intelligent product experiences  
+- **Performance:** Rendering optimization, bundle reduction, lazy loading, profiling  
+- **Tooling:** Webpack, Vite, Jenkins, GitHub Actions, VS Code Extension API  
+- **Cloud & DevOps:** AWS, CI/CD, Git, GitHub, GitLab  
 
-### **Frontend Development**  
-- **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3 (SASS/SCSS).  
-- **Frameworks & Libraries:** React.js, Angular, Electron.js, Electron Builder, VS Code Extension API, D3, Evidence Dev, Bootstrap, Tailwind CSS.  
-- **State Management:** Redux, Context API, Zustand.  
-- **Web Tools & Techniques:** VS Code API, Responsive Design, Cross-Browser Compatibility, Webpack, Vite.  
+## 🏗️ System Design
 
-### **Other Technical Skills**  
-- **Backend Basics:** Node.js, Express.js.  
-- **Version Control:** Git, GitHub, GitLab.  
-- **Testing:** Jest, React Testing Library, Chai, Mocha, Cypress.  
-- **Deployment & CI/CD:** Netlify, Vercel, GitHub Actions.  
+Frontend scalability, microfrontend architecture, API design, performance-first systems, reusable design systems, and enterprise product architecture.
 
----
+## 🚀 Current Focus
 
-## 💬 Let's Connect!  
+Building AI-powered product workflows, improving frontend performance, and exploring plugin ecosystems for developer productivity.
 
-Feel free to reach out if you want to collaborate, discuss frontend development trends, or share project ideas!  
+## 💬 Connect
 
-- **Medium:** [https://theconfusedengineer.medium.com](https://theconfusedengineer.medium.com/)
-- **GitHub:** [@varungupta2671](https://github.com/varungupta2671)  
-- **LinkedIn:** [https://www.linkedin.com/in/varun-gupta-66799281](https://www.linkedin.com/in/varun-gupta-66799281/)
-- **Email:** varungupta.feb@gmail.com
+- **Medium:** https://theconfusedengineer.medium.com  
+- **GitHub:** https://github.com/varungupta2671  
+- **LinkedIn:** https://www.linkedin.com/in/varun-gupta-66799281  
 
----
-
-⭐️ **"Great frontend development isn't just about writing code; it's about crafting delightful user experiences."** 
+⭐️ *Building products that balance performance, scalability, and user experience.*
