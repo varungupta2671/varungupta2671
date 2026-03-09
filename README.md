@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Varun Gupta!
+# Hi, I'm Varun Gupta!
 
 Senior Software Engineer with 10+ years of experience building scalable web applications, enterprise products, and developer platforms. My work focuses on **frontend architecture, performance engineering, AI-driven product integration, and full stack development** using modern web technologies.
 
-## 🛠️ Skills & Expertise
+## Skills & Expertise
 
 - **Frontend:** React, Angular, JavaScript, TypeScript, HTML5, CSS3, Tailwind, Electron, VS Code Extension API
 - **Backend:** Node.js, Express.js, REST APIs, Microservices  
@@ -11,18 +11,18 @@ Senior Software Engineer with 10+ years of experience building scalable web appl
 - **Tooling:** Webpack, Vite, Jenkins, GitHub Actions, VS Code Extension API  
 - **Cloud & DevOps:** AWS, CI/CD, Git, GitHub, GitLab  
 
-## 🏗️ System Design
+## System Design
 
 Frontend scalability, microfrontend architecture, API design, performance-first systems, reusable design systems, and enterprise product architecture.
 
-## 🚀 Current Focus
+## Current Focus
 
 Building AI-powered product workflows, improving frontend performance, and exploring plugin ecosystems for developer productivity.
 
-## 💬 Connect
+## Connect
 
 - **Medium:** https://theconfusedengineer.medium.com  
 - **GitHub:** https://github.com/varungupta2671  
 - **LinkedIn:** https://www.linkedin.com/in/varun-gupta-66799281  
 
-⭐️ *Building products that balance performance, scalability, and user experience.*
+*Building products that balance performance, scalability, and user experience.*
