@@ -1,8 +1,7 @@
-Hi 👋 My name is Varun Gupta
-============================
+👋 Hi, I'm Varun Gupta!
+======================
 
-Senior Software Engineer | Frontend Architect | Full Stack Developer
-------------------
+###Senior Software Engineer | Frontend Architect | Full Stack Developer
 
 Building scalable web applications, enterprise products, and AI-powered developer experiences with strong focus on performance, architecture, and usability.
 
@@ -11,9 +10,6 @@ Building scalable web applications, enterprise products, and AI-powered develope
 * 🤝  I'm open to collaborating on innovative products, AI integrations, and engineering challenges  
 * 🚀  Current focus: AI workflows, frontend performance, plugin ecosystems, and scalable system design  
 
-<a href="https://www.github.com/varungupta2671" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/github/followers/varungupta2671?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
-</a>
 
 ### Skills
 
@@ -43,19 +39,3 @@ Microfrontends • Scalable UI Architecture • Performance-first Systems • AP
 <a href="https://www.linkedin.com/in/varun-gupta-66799281" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <a href="https://theconfusedengineer.medium.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a>
 </p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="https://github.com/varungupta2671">
-<img src="https://github-readme-stats.vercel.app/api?username=varungupta2671&show_icons=true&hide_border=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917" />
-</a>
-
-<a href="https://github.com/varungupta2671">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=varungupta2671&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-</a>
-
-<a href="https://github.com/varungupta2671">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varungupta2671&langs_count=8&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
-</a>
