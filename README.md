@@ -1,7 +1,7 @@
 👋 Hi, I'm Varun Gupta!
 ======================
 
-###Senior Software Engineer | Frontend Architect | Full Stack Developer
+### Senior Software Engineer | Frontend Architect | Full Stack Developer
 
 Building scalable web applications, enterprise products, and AI-powered developer experiences with strong focus on performance, architecture, and usability.
 
